@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Ricardo/Downloads/COMP9024/ass2/Graph.c
+Graph.h
+C:/Users/David Ricardo/Downloads/COMP9024/ass2/Graph.h
+assert.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/David Ricardo/Downloads/COMP9024/ass2/Graph.h
+stdbool.h
+-
+
+C:/Users/David Ricardo/Downloads/COMP9024/ass2/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Graph.h
+C:/Users/David Ricardo/Downloads/COMP9024/ass2/Graph.h
+

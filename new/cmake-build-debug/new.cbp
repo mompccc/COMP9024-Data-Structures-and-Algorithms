@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="new"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/David Ricardo/Downloads/new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="new">
+				<Option output="C:/Users/David Ricardo/Downloads/new/cmake-build-debug/new.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/David Ricardo/Downloads/new/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 new"/>
+					<CompileFile command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="new/fast">
+				<Option output="C:/Users/David Ricardo/Downloads/new/cmake-build-debug/new.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/David Ricardo/Downloads/new/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="e:\software\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 new/fast"/>
+					<CompileFile command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/David Ricardo/Downloads/new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/David Ricardo/Downloads/new/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Software/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/David Ricardo/Downloads/new/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/David Ricardo/Downloads/new/main.c">
+			<Option target="new"/>
+		</Unit>
+		<Unit filename="C:/Users/David Ricardo/Downloads/new/studentLL.c">
+			<Option target="new"/>
+		</Unit>
+		<Unit filename="C:/Users/David Ricardo/Downloads/new/studentLL.h">
+			<Option target="new"/>
+		</Unit>
+		<Unit filename="C:/Users/David Ricardo/Downloads/new/studentRecord.c">
+			<Option target="new"/>
+		</Unit>
+		<Unit filename="C:/Users/David Ricardo/Downloads/new/studentRecord.h">
+			<Option target="new"/>
+		</Unit>
+		<Unit filename="C:/Users/David Ricardo/Downloads/new/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

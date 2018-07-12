@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Ricardo/Downloads/new/main.c
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+ctype.h
+-
+studentRecord.h
+C:/Users/David Ricardo/Downloads/new/studentRecord.h
+studentLL.h
+C:/Users/David Ricardo/Downloads/new/studentLL.h
+
+C:/Users/David Ricardo/Downloads/new/studentLL.c
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+studentLL.h
+C:/Users/David Ricardo/Downloads/new/studentLL.h
+studentRecord.h
+C:/Users/David Ricardo/Downloads/new/studentRecord.h
+
+C:/Users/David Ricardo/Downloads/new/studentLL.h
+
+C:/Users/David Ricardo/Downloads/new/studentRecord.c
+stdio.h
+-
+
+C:/Users/David Ricardo/Downloads/new/studentRecord.h
+
